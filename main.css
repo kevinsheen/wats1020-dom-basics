@@ -11,3 +11,8 @@ html {
     padding: 1em;
     margin: 1em;
 }
+
+h1 {
+	color: #f2f2f2; 
+	background: #ff4a4a; 
+}
